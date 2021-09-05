@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700|Ubuntu&display=swap');
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body{
+
+background-size: cover ; 
+
+}
+  
+  .image{
+    justify-self: center;
+    background-color: greenyellow;
+  margin-bottom: 0.2in;
+    
+  }
+  
+  .button {
+    float: left;
+    padding: 10px;
+    background-color: pink;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container{
+    margin-left: 0in;
+    border-radius: 50in;;
+  }
+  .row {
+    float: right;
+    width: 23%;
+    padding: 10 10px;
+    margin: 20px;
+  }
+  
+  
+  .content {
+   
+    padding: 20px;
+    text-align: left;
+    background-color: red
+  }.heading{
+    box-shadow: pink;
+    padding: 15px;
+    text-align: center;
+    background-color: brown;
+    color: whitesmoke;
+  }.mail {
+    
+    padding: 20px;
+    text-align: center;
+    background-color: brown;
+    color: whitesmoke;
+  }
+  
+  .ekdumtop {
+    font-family: 'Arial', sans-serif;
+    color: red;
+    
+    margin-right: 7in;
+  }
+  
+  
+  
